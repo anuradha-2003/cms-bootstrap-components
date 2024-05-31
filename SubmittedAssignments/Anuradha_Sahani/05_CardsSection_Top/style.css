@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #ececec;
+}
+
+
+
+body {
+  margin: 3em;
+}
+.image:hover {
+  transform: scale(1.01);
+}
+.image {
+  transition: transform 1.09s;
+}
+
+

@@ -1,0 +1,21 @@
+.img-gallery {
+  overflow: hidden;
+}
+
+.img-gallery img {
+  transition: all 1.5s ease;
+  
+}
+
+.img-gallery:hover img {
+  transform: scale(1.1);
+}
+.img-hover{
+	animation:zoom;
+}
+.card{
+	position:right;
+}
+
+
+
